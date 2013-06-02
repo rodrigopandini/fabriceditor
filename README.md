@@ -10,7 +10,6 @@
 
 - Implement common features of online editors
 
-
 ### MIT License
 
 Copyright (c) 2013 Rodrigo Pandini
