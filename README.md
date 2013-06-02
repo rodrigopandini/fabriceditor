@@ -8,11 +8,8 @@
 
 ### Goals
 
-- Implement common features of online editors.
-- 
-
-
-
+- Implement common features of online editors
+-
 
 
 ### MIT License
