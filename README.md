@@ -1,6 +1,6 @@
 ### FabricEditor
 
-**FabricEditor** is an online canvas editor to show some powers of [Fabric.js](http://fabricjs.com) framework. :metall:
+**FabricEditor** is an online canvas editor to show some powers of [Fabric.js](http://fabricjs.com) framework. :metal:
 
 <a href="http://rodrigopandini.github.io/fabriceditor/" target="_blank"><img src="https://github.com/rodrigopandini/fabriceditor/raw/screenshot.png" style="width:300px;box-shadow:rgba(0,0,0,0.3) 0 0 5px"></a>
 
